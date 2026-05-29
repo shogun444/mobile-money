@@ -371,6 +371,7 @@ var MobileMoneyService = /** @class */ (function () {
                             results = [];
                             _i = 0, items_1 = items;
                             _a.label = 3;
+                        }
                     case 3:
                         if (!(_i < items_1.length)) return [3 /*break*/, 5];
                         item = items_1[_i];
